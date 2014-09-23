@@ -1,0 +1,8 @@
+team_a_crud_homepage:
+    pattern:  /index/
+    defaults: { _controller: teamACrudBundle:Default:index }
+
+
+
+
+
